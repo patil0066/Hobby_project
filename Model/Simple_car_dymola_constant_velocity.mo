@@ -630,6 +630,7 @@ package Simple_car_dymola "Simple model car can be run on simulink and dymola"
         annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
               coordinateSystem(preserveAspectRatio=false)));
       end wheel;
+
     end Wheels;
   end Components;
 
